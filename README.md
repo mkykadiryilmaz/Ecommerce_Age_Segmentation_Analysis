@@ -3,7 +3,7 @@ This project was developed to identify low profit margins by segmenting customer
 
 ---
 
-![Dashboard](image/dashboard.png)
+![Dashboard](dashboard/dashboard.png)
 
 ---
 
