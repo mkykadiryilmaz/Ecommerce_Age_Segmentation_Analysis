@@ -66,5 +66,5 @@ Insight Communication: Strategic recommendations based on age groups and other t
 
 ## Sources
 
-* Supermarket_Sales.csv in datasource
+* csv in source
 * dashboard.png in dashboard
